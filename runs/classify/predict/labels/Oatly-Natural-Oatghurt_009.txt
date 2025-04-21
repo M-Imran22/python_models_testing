@@ -1,0 +1,5 @@
+1.00 Oatghurt
+0.00 Sour-Milk
+0.00 Oat-Milk
+0.00 Yoghurt
+0.00 Sour-Cream

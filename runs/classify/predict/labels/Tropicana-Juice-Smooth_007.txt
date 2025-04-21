@@ -1,3 +1,5 @@
-0.98 Tropicana-Juice-Smooth
-0.01 Yoggi-Vanilla-Yoghurt
-0.01 Alpro-Shelf-Soy-Milk
+1.00 Juice
+0.00 Soy-Milk
+0.00 Yoghurt
+0.00 Oatghurt
+0.00 Milk

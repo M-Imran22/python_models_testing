@@ -1,0 +1,5 @@
+1.00 Milk
+0.00 Juice
+0.00 Oat-Milk
+0.00 Oatghurt
+0.00 Soy-Milk

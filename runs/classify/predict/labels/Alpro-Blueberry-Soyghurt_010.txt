@@ -1,0 +1,5 @@
+1.00 Soyghurt
+0.00 Sour-Milk
+0.00 Soy-Milk
+0.00 Yoghurt
+0.00 Juice
