@@ -1,0 +1,10 @@
+path: dataset
+
+train: train
+val: val
+
+nc: 5
+
+names: 0:Alpro-Shelf-Soy-Milk_013
+  1:Tropicana-Juice-Smooth_006
+  2:Yoggi-Vanilla-Yoghurt_018
