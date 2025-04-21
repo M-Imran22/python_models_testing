@@ -63,3 +63,23 @@ print("Filtered Results:")
 for _, text, prob in results:
     if prob > 0.4:
         print(f"» {text!r} @ {prob:.2f}")
+
+# 2nd method using Pillow
+
+# import easyocr
+# from PIL import Image
+
+# # Initialize reader (English-only for speed)
+# reader = easyocr.Reader(["en"], gpu=False)  # Use GPU=True if available
+
+# # Load image (replace with your product label image)
+# image_path = "images/Arla-Sour-Cream_006.jpg"
+# image = Image.open(image_path)
+
+# # Perform OCR
+# # detail=0 returns only text
+# results = reader.readtext(image_path, text_threshold=0.7, detail=0)
+
+# print("Extracted Text:")
+# for text in results:
+#     print(text)
